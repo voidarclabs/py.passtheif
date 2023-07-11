@@ -9,7 +9,7 @@ to the email you input. You will need to use a gmail account for this
 to work. you will need to replace the placeholder text starting from 
 [line 11](https://github.com/voidarclabs/py.passtheif/blob/main/test.py#L11)
 
-# To run:
+## To run:
 
 ```
 import passthief
